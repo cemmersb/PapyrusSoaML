@@ -1,4 +1,4 @@
 PapyrusSoaML
 ============
 
-SoaML Profile for use with Papyurs Modelling
+SoaML Profile for use with Papyrus modelling environment

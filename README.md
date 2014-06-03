@@ -8,17 +8,17 @@ Installation of PapyrusSoaML
 
 The following steps describe the installation of PapyrusSoaML within your Eclipse IDE.
 
-1.	Checkout the project and add import the project to Eclipse  
+1.	Checkout the project and import the project to Eclipse  
 ``
 git clone https://github.com/cemmersb/PapyrusSoaML.git
 ``
-2.	Create a new Papyrus Model  
+2.	Create a new Papyrus model in a new Eclipse project  
 ![alt tag](https://github.com/cemmersb/PapyrusSoaML/raw/master/documentation/01_Create_New_Papyrus_Model.png)
-3.	Provide a name to your model  
+3.	Give your model a nice name  
 ![alt tag](https://github.com/cemmersb/PapyrusSoaML/raw/master/documentation/02_Name_Papyrus_Model.png)
-4. Choose your modeling language  
+4. Select your modeling language  
 ![alt tag](https://github.com/cemmersb/PapyrusSoaML/raw/master/documentation/03_Choose_UML_Language.png)
-5. Select diagram name  
+5. Choose a diagram name that fits to your model  
 ![alt tag](https://github.com/cemmersb/PapyrusSoaML/raw/master/documentation/04_Select_and_Name_Diagram.png)
 
 
@@ -28,9 +28,9 @@ Using PapyrusSoaML
 ![alt tag](https://github.com/cemmersb/PapyrusSoaML/raw/master/documentation/05_Apply_Profile_by_Selecting_Model.png)
 2. Select your model _Properties_  
 ![alt tag](https://github.com/cemmersb/PapyrusSoaML/raw/master/documentation/06_Apply_Profile_via_Model_Properties.png)
-3. Add the profile to your model by selecting the _+_ sign  
+3. Add the profile to your model by selecting the _+_ sign in the _Properties_ pane  
 ![alt tag](https://github.com/cemmersb/PapyrusSoaML/raw/master/documentation/07_Apply_Profile_by_Selecting_SoaML.png)
-4. Select the entire profile and all sub profiles  
+4. Select the entire profile and include all sub profiles  
 ![alt tag](https://github.com/cemmersb/PapyrusSoaML/raw/master/documentation/08_Apply_Profile_Choose_All.png)
 5. Start modeling, e.g. a class and select the profile option via the properties  
 ![alt tag](https://github.com/cemmersb/PapyrusSoaML/raw/master/documentation/09_Apply_Profile_By_Selecting_On_Class.png)

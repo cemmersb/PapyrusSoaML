@@ -39,4 +39,4 @@ Using PapyrusSoaML
 
 Credits
 -------
-Thanks to Sebastien Gerard for providing a great tutorial on how to create a custom profile. If you want to read more on how to create your own, custom profile, please visit: http://www.eclipse.org/papyrus/usersTutorials/resources/PapyrusUserGuideSeries_AboutUMLProfile_v1.0.0_d20120606.pdf
+Thanks to Sebastien Gerard for providing a great tutorial on how to create a custom profile. If you want to learn more about how to create a custom profile, please visit: http://www.eclipse.org/papyrus/usersTutorials/resources/PapyrusUserGuideSeries_AboutUMLProfile_v1.0.0_d20120606.pdf

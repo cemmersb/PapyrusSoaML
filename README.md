@@ -13,7 +13,7 @@ The following steps describe the installation of PapyrusSoaML within your Eclips
 git clone https://github.com/cemmersb/PapyrusSoaML.git
 ``
 2.	Create a new Papyrus Model  
-![alt tag](https://raw.github.com/cemmersb/PapyrusSoaML/blob/master/documentation/01_Create_New_Papyrus_Model.png)
+![alt tag](https://raw.github.com/cemmersb/PapyrusSoaML/tree/master/documentation/01_Create_New_Papyrus_Model.png)
 3.	Provide a name to your model  
 ![alt tag](https://raw.github.com/cemmersb/PapyrusSoaML/blob/master/documentation/02_Name_Papyrus_Model.png)
 4. Choose your modeling language  
